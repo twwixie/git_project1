@@ -5,5 +5,10 @@ def main():
     print(1)
 
 
+# Yandexlyceum
+def my_superfunction():
+    print('What an awesome print!')
+
+
 if __name__ == '__main__':
     main()
